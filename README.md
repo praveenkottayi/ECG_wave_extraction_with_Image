@@ -1,5 +1,6 @@
 # ECG_wave_extraction_with_Image
  To extract Headers and signals from the scan images of ECG. This signals can be used further as features for the ML/AI models.
+ If its a direct pdf generated from the machine, then the content could be read using pdf extractors easily. 
  
 # Context 
 EKG files are a core source of information on identifying heart related conditions.  Most feature extraction mechanisms focus on retrieving core information in an efficient form.  Medical practitioners have pre identified health related features (distance between key parts of the waves, eg. QRS complex) and technologists have focused on efficient extraction based on downsampling the data through mathematical representations.  We instead wish to reexamine the area by extracting the lowest level features of the EKG and use those as inputs into ML / NN techniques to extract features or make predictions.
