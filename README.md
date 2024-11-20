@@ -1,5 +1,5 @@
 # ECG_wave_extraction_with_Image
- To extract Headers and signals from the scan images of ECG. This signals can be used further as features for the ML/AI models.
+ This component will help in digitalizing old ECG records.To extract Headers and signals from the scan images of ECG. This signals can be used further as features for the ML/AI models.
  If its a direct pdf generated from the machine, then the content could be read using pdf extractors easily. 
  
 # Context 
